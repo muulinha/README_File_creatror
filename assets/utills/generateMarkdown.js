@@ -61,7 +61,7 @@ function renderLicenseBadge(license) {
   
   ## Questions
   
-  to reach me for any questions contact me at my:
+  To reach me for any questions contact me at my:
   
   Github: [${data.github}](https://github.com/${data.github})
   E-mail:${data.email}
